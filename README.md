@@ -1,6 +1,6 @@
 # Automobile Application
  
- Note: Clone this repository and execute go mod tidy command within the Chaincode, Client and Events folder.
+ Note: Clone this repository and execute <b>go mod tidy</b> command within the Chaincode, Client and Events folder.
 
 # Commands For Executing this application
 ## Bring up the Test network
