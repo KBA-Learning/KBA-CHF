@@ -141,6 +141,12 @@ peer chaincode invoke -o localhost:7050 --ordererTLSHostnameOverride orderer.exa
 ```
 peer chaincode query -C autochannel -n KBA-Automobile -c '{"Args":["GetCarHistory", "Car-02"]}' --peerAddresses localhost:9051 --tlsRootCertFiles $ORG2_PEER_TLSROOTCERT
 ```
+## Bring down the Network using the following command
+
+```
+./network.sh down
+
+```
 
 
 
