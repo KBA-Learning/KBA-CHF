@@ -1,6 +1,6 @@
 # Automobile Application
  
- Note: Clone this repository & copy <b>fabric-samples</b> folder to the cloned repository named <b>KBA-CHF </b>.
+ <b>Note:</b> Clone this repository & copy <b>fabric-samples</b> folder to the cloned repository named <b>KBA-CHF </b>.
        Execute <b>go mod tidy</b> command within the Chaincode, Client and Events folder.
 
 # Commands For Executing this application
